@@ -1,0 +1,18 @@
+/* Button primary */
+.btn-outline-primary {
+  color: #185480 !important;
+  background-color: transparent !important;
+  background-image: none !important;
+  border-color: #185480 !important;
+}
+
+.btn-outline-primary:hover {
+  color: white !important;
+  background-color: #185480 !important;
+  border-color: #185480 !important;
+}
+
+.btn-outline-primary:focus,
+.btn-outline-primary.focus {
+  box-shadow: 0 0 0 .2rem #185480 !important;
+}
